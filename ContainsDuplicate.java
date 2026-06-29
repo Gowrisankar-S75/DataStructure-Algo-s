@@ -25,3 +25,8 @@ class Solution {
         return false; 
     }
  }
+
+//  Pattern Recognized: HashTable-Set 
+//  Time Complexity:O(n) 
+//  Space Complexity:O(n) 
+//  because of entra we use set here
